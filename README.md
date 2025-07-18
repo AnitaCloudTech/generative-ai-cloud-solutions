@@ -73,8 +73,7 @@ Cloud Enthusiast | Software Engineer | AWS Cloud Practitioner
 
 ```
 ---
-
-## 🪪 License
+ 🪪 License
 ```
 This project is open-source and available under the [MIT License](LICENSE).
 ```
