@@ -71,9 +71,7 @@ Cloud Enthusiast | Software Engineer | AWS Cloud Practitioner
 💼 [LinkedIn Profile](https://www.linkedin.com/in/anita-mijatović-285a72283)
 📫 mijatovicanita7@gmail.com
 
-```
----
- 🪪 License
+```🪪 License
 ```
 This project is open-source and available under the [MIT License](LICENSE).
 ```
